@@ -15,3 +15,4 @@ A prototype for a refreshable Braille display using Raspberry Pi.
 ➢ Resistors (330 Ohm)                                                                                                                     
 ➢ LAN, USB                                                                                                                                 
 
+![capture](https://user-images.githubusercontent.com/8913742/30510379-4962b8fa-9ae0-11e7-8c89-a13e9e5872a0.PNG)
