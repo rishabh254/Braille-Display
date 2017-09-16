@@ -8,10 +8,10 @@ A prototype for a refreshable Braille display using Raspberry Pi.
 ● I have implemented the prototype using LEDs, but Vibration motors can be used in their place.                                             
 
 # Components used                                                                                                                         
-➢ Raspberry Pi 2.0 B+
-➢ Headphones
-➢ Bread Board
-➢ LED’s (6)
-➢ Resistors (330 Ohm)
-➢ LAN, USB
+➢ Raspberry Pi 2.0 B+                                                                                                                     
+➢ Headphones                                                                                                                               
+➢ Bread Board                                                                                                                             
+➢ LED’s (6)                                                                                                                               
+➢ Resistors (330 Ohm)                                                                                                                     
+➢ LAN, USB                                                                                                                                 
 
