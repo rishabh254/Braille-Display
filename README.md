@@ -16,3 +16,8 @@ A prototype for a refreshable Braille display using Raspberry Pi.
 ➢ LAN, USB                                                                                                                                 
 
 ![capture](https://user-images.githubusercontent.com/8913742/30510379-4962b8fa-9ae0-11e7-8c89-a13e9e5872a0.PNG)
+
+
+# References
+For LED blink setup with Raspberry pi , refer this :
+https://circuitdigest.com/microcontroller-projects/raspberry-pi-led-blinking
